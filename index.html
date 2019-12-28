@@ -38,13 +38,15 @@ weight: 0
       <div class="panel panel-primary" style="margin-top:10px;background-color:#B75F33;border-color:#000000;">
         <div class="panel-heading" style="background-color:#B75F33;border-color:#2D6ED3;">
           <h1>CS 6741: Topics in NLP and Machine Learning </h1>
-          <p class="lead">Alexander Rush, Cornell Tech</p>
+          <p class="lead">Alexander Rush, Cornell Tech (Spring 2020)</p>
 
         </div>
         <div class="panel-footer">
           <ul class="nav nav-tabs invert-colors">
             <li class="active"><a data-toggle="tab" href="#home_tab">Home</a></li>
+            <li><a data-toggle="tab" href="#resources_tab">Resources</a></li>
             <li><a data-toggle="tab" href="#schedule_tab">Schedule</a></li>
+
             <li><a data-toggle="tab" href="#project_tab">Project</a></li>
           </ul>
         </div>
@@ -54,58 +56,30 @@ weight: 0
           <div class="tab-content">
               <div id="home_tab" class="row tab-pane fade in active">
                   <div class="row container">
-                      <p><span style="font-size: 1.17em;font-weight: bold;">Time:</span> Mon/Wed 10:30-11:45pm</p>
-                      <p><span style="font-size: 1.17em;font-weight: bold;">Location:</span> Pierce 301</p>
+                      <p><span style="font-size: 1.17em;font-weight: bold;">Time:</span> Mon/Wed 1:00-2:30pm</p>
+                      <p><span style="font-size: 1.17em;font-weight: bold;">Location:</span> Bloomberg 497 / Gates G13</p>
                   </div>
                   <div class="row container">
                       <h3 id="description">Course Info</h3>
                       <div class="container ">
                         <dl>
 
-                              <dt>Application</dt>
-                              <dd><ul>
-                                  <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZcGeC2WenocQLkLC5acfBq5PeqKeXORwiRxk9GZxGQZX5SA/viewform?usp=sf_link">Course Application</a>  (CS 287 will be capped at 35
-                                    students this semester. We are
-                                    looking for interested and
-                                    dedicated students. If you think
-                                    this is you, please take the time
-                                    to fill out the application
-                                    carefully.)
-                              </ul></dd>
-
                               <dt>Links</dt>
                               <dd><ul>
-                                  <li><a href="https://cs-287.slack.com/">Slack </a></li>
+                                  <li><a href="https://cs6741.slack.com/">Slack </a></li>
                                   <li> <a href="syllabus.pdf">Syllabus</a></li>
                                   <li><a href="https://canvas.harvard.edu/courses/46821">Canvas Site</a></li>
                                   <li><a href="https://docs.google.com/document/d/1dntIvJ7RlOsPbFcnJyDuQBBGHE7Q9kL1a8c9VUmBgTA/edit">Project Ideas</a></li>
                               </ul></dd>
-
-                              <dt>Lab Times </dt>
-                              <dd>
-                                  <ul>
-                                    <li>Friday 2:30-3:30pm, MD 2nd Floor Lounge</li>
-                                  </ul>
-                              </dd>
                             
                               <dt>Instructor</dt>
                               <dd> <ul>
                                       <li>Alexander "Sasha" Rush  <br>
                                       </li>
-                                      <li>Email: Slack preferred or srush at seas.harvard.edu
+                                      <li>Email: Slack preferred or arush at cornell.edu
                                     </li></ul>
                                   </dd>
 
-                                  <dt>Teaching Assistants</dt>
-                                  <dd>
-                                    <ul>
-                                      <li>
-                                        {% for ta in site.data.all.tas %}
-                                        {{ta.name}}
-                                        {% endfor %}
-                                      </li>
-                                    </ul>
-                                  </dd>
                                   <dt>Office Hours</dt>
                                   <dd>
                                     <ul>
@@ -119,31 +93,31 @@ weight: 0
                               <dt>Grading</dt>
                               <dd>
                                 <ul>
-                                    <li> Assignments (20%) </li>
-                                    <li> Presentation and Participation (15%) </li>
+                                    <li> Assignments (15%) </li>
+                                    <li> Presentation and Participation (20%) </li>
                                     <li> Midterm Exam  (15%) </li>
                                     <li> Final Project (50%) </li>
                                 </ul>
                               </dd>
-
+                              <dt>Description</dt>
+                              <dd>
+                                <p>
+                                  Our syllabus this semester consists of two parts.
+                                  The first part of the semester will be an accelerated
+                                  background on applied deep learning for natural language
+                                  processing with a series of Kaggle competitions. The second
+                                  part of the semester will consist of student led paper
+                                  presentations on the topic of text generation and transfer.
+                                </p>
+                              </dd>
                           </dl>
                       </div>
                   </div>
               </div>
               <!--div id="references_tab" class="row tab-pane fade">
-                  <div class="row container">
-                      <dl>
-                          <dd><ul>
-                              <li> Murphy, <a href="http://harvardcoopbooks.bncollege.com/webapp/wcs/stores/servlet/BNCB_TextbookDetailView?catalogId=10001&item=N&langId=-1&productId=600005699137&storeId=52084">Machine Learning: A Probabilistic Perspective</a>
-                              <li> Gelman et al, <a href="http://www.stat.columbia.edu/~gelman/book/"> Bayesian Data Analysis </a> </li>
-                              <li> Petersen and Pedersen, <a href="http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf">The Matrix Cookbook</a>
-                              <li> Blei et al, <a href="https://arxiv.org/pdf/1601.00670.pdf">Variational Inference: A Review for Statisticians</a>
-                          </ul></dd>
-                      </dl>
-                  </div>
               </div-->
 
-              <div id="sections_tab" class="row tab-pane fade">
+<              <div id="sections_tab" class="row tab-pane fade">
                   <h3>Time and Location</h3>
                   <div class="row container">
                       <ul>
@@ -206,7 +180,7 @@ weight: 0
               <div id="project_tab" class="row tab-pane fade">
                   <p>
                   You will form groups of 3 (preferably, for exceptions please ask Sasha) to work on a project. The ideal outcome of this project
-                  would be a paper that could be submitted to a top-tier natural language or machine learning conference such as ACL, EMNLP, NIPS,
+                  would be a paper that could be submitted to a top-tier natural language or machine learning conference such as ACL, EMNLP, NeurIPS,
                   ICML, or UAI. There are different ways to approach this project, which are discussed in a more comprehensive document that is available on the course website. There are four
                   separate components of the project.
                   </p>
@@ -245,7 +219,7 @@ weight: 0
                                    <td>May 13</td>
                                    <td>Final Report</td>
                                    <td>
-                                       You will write a report of up to ten pages, in the style of a mainstream CS
+                                       You will write a report of up to eight pages, in the style of a mainstream CS
                                        conference paper. Please use the provided template (see <a href="https://github.com/harvard-ml-courses/cs287-s18/tree/master/projects/template">here</a>)
                                    </td>
                                </tr>
@@ -253,15 +227,38 @@ weight: 0
                        </table>
                   </div>
               </div>
-              <div id="schedule_tab" class="row tab-pane fade">
-                <p>
-                Our syllabus this semester consists of two parts.
-                The first part of the semester will be an accelerated
-                background on applied deep learning for natural language
-                processing with a series of Kaggle competitions. The second
-                part of the semester will consist of student led paper
-                presentations on the topic of text generation and transfer.
-                </p>
+
+              <div id="resources_tab" class="row tab-pane fade">
+                <div class="row container">
+
+                  
+                  <dl>
+                    <dt>Machine Learning and Statistics</dt>
+                    <dd><ul>
+                        <li> Bishop, Pattern Recognition and Machine Learning </a>
+                        <li> Murphy, <a href="http://harvardcoopbooks.bncollege.com/webapp/wcs/stores/servlet/BNCB_TextbookDetailView?catalogId=10001&item=N&langId=-1&productId=600005699137&storeId=52084">Machine Learning: A Probabilistic Perspective</a>
+                    </ul> </dd>
+                    </dl>
+                  <dl>
+                    <dt>Applied Statistics and Linear Algebra</dt>
+                    <ul>
+                        <li> Gelman et al, <a href="http://www.stat.columbia.edu/~gelman/book/"> Bayesian Data Analysis </a> </li>
+                        <li> Petersen and Pedersen, <a href="http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf">The Matrix Cookbook</a>
+                        <li> Blei et al, <a href="https://arxiv.org/pdf/1601.00670.pdf">Variational Inference: A Review for Statisticians</a>
+                    </ul></dd>
+</dl>
+<dl>
+                    <dt>PyTorch</dt>
+                    <ul>
+                      <li> <a href="http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html">General Tutorial</a> </li>
+                      <li> <a href="http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"> NLP Tutorial</a>
+                        
+                      <li> <a href="http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html"> Seq2Seq Tutorial</a>
+                    </ul></dd>
+                  </dl>
+                </div>
+              </div>
+              <div id="schedule_tab" class="row tab-pane fade">                
                   <div class="row container">
                       <div class="tab-content">
                           <table class="table">
