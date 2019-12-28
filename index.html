@@ -44,9 +44,8 @@ weight: 0
         <div class="panel-footer">
           <ul class="nav nav-tabs invert-colors">
             <li class="active"><a data-toggle="tab" href="#home_tab">Home</a></li>
-            <li><a data-toggle="tab" href="#resources_tab">Resources</a></li>
             <li><a data-toggle="tab" href="#schedule_tab">Schedule</a></li>
-
+            <li><a data-toggle="tab" href="#resources_tab">Resources</a></li>
             <li><a data-toggle="tab" href="#project_tab">Project</a></li>
           </ul>
         </div>
@@ -102,20 +101,61 @@ weight: 0
                                     <li> Final Project (50%) </li>
                                 </ul>
                               </dd>
+                              
                               <dt>Description</dt>
                               <dd>
                                 <ul>
                                   <li>
-                                <p>
-                                  Our syllabus this semester consists of two parts.
-                                  The first part of the semester will be an accelerated
-                                  background on applied deep learning for natural language
-                                  processing with a series of Kaggle competitions. The second
-                                  part of the semester will consist of student led paper
-                                  presentations on the topic of text generation and transfer.
+                                    <p>
+                                      CS 6741 is a topics class on the
+                                      intersection of natural language
+                                      processing and machine learning
+                                      with a rotating focus and style.
+                                      The theme of this class this
+                                      semester is <i>Discrete Variables
+                                      / Deep Learning</i>. 
+
+                                      
+                                      The course will have three (discrete) parts.
+
+                                      <ol>
+                                        <li> A modern treatment of
+                                          discrete variable models and
+                                          structured prediction for
+                                          several classic problems in
+                                          NLP.  (Lecture-Based) </li>
+                                        <li> A survey of current tasks
+                                          and challenges in
+                                          contermporary NLP and a
+                                          collaborative discussion of
+                                          potential research problems. (Teacher/Student-presented) </li>
+                                        <li> Project workshopping and group feedback. (Open-form) </li>
+                                      </ol>
+
                                 </p>
                                 </li>
                               </dd>
+                              <dt>Topics</dt>
+                              <dd>
+                                <ul>
+                                  <li>alignment, markov models, topic models, policy gradient, conditional random fields, variational inference, amortization, gumbel-softmax.
+                                </ul>
+                              </dd>
+                              <dt>Preliminaries</dt>
+                              <dd>
+                                <ul><li>
+                                This course is not meant to be a
+                                comprehensive treatment of NLP or deep
+                                learning. For NLP, I will assume a working
+                                knowledge of basic problems such as classification
+                                and language modeling. For deep learning, 
+                                I will assume knowledge of PyTorch and the ability
+                                to quickly pick-up deep learning models from
+                                tutorials.
+                                </li>
+                                </ul>
+                              </dd>
+                              
                           </dl>
                       </div>
                   </div>
@@ -123,7 +163,7 @@ weight: 0
               <!--div id="references_tab" class="row tab-pane fade">
               </div-->
 
-<              <div id="sections_tab" class="row tab-pane fade">
+              <div id="sections_tab" class="row tab-pane fade">
                   <h3>Time and Location</h3>
                   <div class="row container">
                       <ul>
@@ -184,17 +224,25 @@ weight: 0
                   </div>
               </div>
               <div id="project_tab" class="row tab-pane fade">
-                  <p>
-                  You will form groups of 3 (preferably, for exceptions please ask Sasha) to work on a project. The ideal outcome of this project
-                  would be a paper that could be submitted to a top-tier natural language or machine learning conference such as ACL, EMNLP, NeurIPS,
-                  ICML, or UAI. There are different ways to approach this project, which are discussed in a more comprehensive document that is available on the course website. There are four
-                  separate components of the project.
-                  </p>
-                  <p>
-                  You will upload these materials via Canvas. Please see the syllabus (linked
-                  in the course website) for a more thorough description of the final project and policies related to
-                  collaboration, etc.
-                  </p>
+                
+                <dt>Grading</dt>
+                <dd>
+                  <ul>
+                    <li>
+                      <p>.
+                        The goal of this class is to produce original
+                        research in natural language processing or machine learning.
+                        As such, we will work towards the goal of submitting a paper
+                        to a top-tier conference. You should aim to submit an abstract
+                        half-way through the class and a final project by the end of the term.
+                      </p>
+                    </li>
+                  </ul>
+                  
+                </dd>
+
+
+
                   <hr>
                   <h3>Important Dates</h3>
                   <div class="row container">
@@ -229,6 +277,7 @@ weight: 0
                                        conference paper. Please use the provided template (see <a href="https://github.com/harvard-ml-courses/cs287-s18/tree/master/projects/template">here</a>)
                                    </td>
                                </tr>
+                               <tr></tr>
                            </tbody>
                        </table>
                   </div>

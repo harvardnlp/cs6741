@@ -3,137 +3,132 @@ tas:
   - name: "<a href='mailto:dengyuntian@g.harvard.edu'>Yuntian</a> (OH: Wednesday 4pm-5pm, MD 2nd floor lounge)"
 
 
-dates: ["", "Jan. 22", "Jan. 27", "Jan. 29", "Feb. 3", "Feb. 5", "Feb. 10", "Feb. 12", "Feb. 17", "Feb. 19", "Feb. 24", "Feb. 26", "Mar. 2", "Mar. 4", "Mar. 9", "Mar. 11", "Mar. 16", "Mar. 18", "Mar. 23", "Mar. 25", "Apr. 6", "Apr. 8", "Apr. 13", "Apr. 15", "Apr. 20", "Apr. 22", "Apr. 27", "Apr. 29", "May. 4"]
+dates: ["", "Jan. 22", "Jan. 27", "Jan. 29", "Feb. 3", "Feb. 5", "Feb. 10", "Feb. 12", "Feb. 17", "Feb. 19", "Feb. 24", "Feb. 26", "Mar. 2", "Mar. 4", "Mar. 9", "Mar. 11", "Mar. 16", "Mar. 18", "Mar. 23", "Mar. 25", "Apr. 6", "Apr. 8", "Apr. 13", "Apr. 15", "Apr. 20", "Apr. 22", "Apr. 27", "Apr. 29", "May. 4", "May. 14"]
 ohs:
   - time: Monday 2:30-4pm
     location: MD 217 (Sasha)
 
-
-
 lectures:
-  - topic: Intro
+  - topic: Intro 
     papers:
     hw:
-  - topic: Classification
-    subtopic: Basics
+  - topic: Core Models
+    subtopic: Base
     hw:
     papers:
     demos: 
   - topic:
-    subtopic: CNNs
-    hw:
+    subtopic: Structured
+    hw: HW 1
     papers:
     demos: 
-  - topic: Sequences
+  - topic: Posterior Inference
     hw:  
-    subtopic: NNLMs
+    subtopic: Exact / RL
     papers:
     demos: 
   - topic:
-    subtopic: RNNs
+    subtopic: Variational / Amortized
     hw: 
     papers:
     section:
-    demos: 
+    demos:
   - topic:
-    subtopic: Translation (Yuntian)
+    subtopic: Relaxations
+    hw: 
+    papers:
+    section:
+    demos:
+  - topic: Parameter Estimation
+    subtopic: Expectation-Maximization
+    hw: HW 2
+    papers:
+    section:
+    demos:      
+  - topic: 
+    subtopic: Variational Autoencoders
     papers:
     section:
     demos:    
-  - topic:
-    subtopic: Attention  
+  - topic: Structured Inference
+    subtopic: Structure (Pt 2)
     demos: 
     hw: 
     papers:
-  - topic: Talk
-    subtopic: Sasha (Thurs 3pm G115)
+  - topic: 
+    subtopic: Autoregressive
     papers:
-    hw:     
+    hw: 
+  - topic: Topics
+    hw: HW 3    
+    subtopic: Attention
+    papers:
   - topic: 
     hw:
-    subtopic: "Guest Lecture: Alec Radford"
-    papers:
-  - topic: Latent Variables 
-    hw:
-    subtopic: Variational Autoencoders (Yoon Kim)
+    subtopic: Flow-Models
     papers:
     section:
     demos:
-  - topic:
-    subtopic: Latent Variables 2
-    papers:
-    demos: 
-  - topic: Frontier of Tasks
-    hw: 
-    subtopic: Problem and Datasets
-    papers:
   - topic: Midterm
-    subtopic:
-    papers:
-    hw:
-  - topic: Projects
     subtopic: 
     papers:
-  - topic: 
+    demos: 
+  - topic: Tasks
     hw: 
-    subtopic: Yann LeCunn Talk
+    subtopic: Task 
     papers:
-    demos:
   - topic: 
-    hw:
+    subtopic: Task 
+    papers:
+    hw: HW 4
+  - topic: 
     subtopic: Project / Office Hours
     papers: 
-  - topic:
+  - topic: Topics
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
-    subtopic: EthiCS (Fairness + Bias)
+    subtopic: Text GANs (?)
     papers:
-  - topic: 
-    hw: 
-    subtopic: <a href="https://www.seas.harvard.edu/calendar/event/121861">Timnit Gebru</a> (3pm MD 115)
-    papers:
-    demos:
   - topic:
     hw: 
-    subtopic: Probing Models
-    papers: 
-  - topic:
-    hw: <a href="https://colab.research.google.com/drive/1edrI58NSCnibBrCW_Uy3cimoe88bD0G1">Attention</a> <a href="https://github.com/harvard-ml-courses/cs287-web/blob/master/NLP%20Assignment.pdf">Ethics</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw4">(Kaggle)</a>
-    subtopic: Project
+    subtopic: Advanced DP
     papers:
   - topic:
     hw:
-    subtopic: Project
+    subtopic: Text Generation
+    papers:
+  - topic: Projects
+    hw:
+    subtopic: Project Workshop
     papers:
   - topic:
     hw:
-    subtopic: Project
+    subtopic: Project Workshop
     papers:
   - topic:
     hw:
-    subtopic: Project
+    subtopic: Project Workshop
     papers:
   - topic:
     hw:
-    subtopic: Project
+    subtopic: Project Workshop
     papers:
   - topic:
     hw:
-    subtopic: Project
+    subtopic: Project Workshop
     papers:
   - topic:
     hw:
-    subtopic: Project
+    subtopic: Project Workshop
     papers:
   - topic:
     hw:
-    subtopic: Project
-    papers:
-  - topic:
-    hw:
-    subtopic: Project
+    subtopic: Project Workshop
     papers:
   - topic: 
-    subtopic:
+    subtopic: Project Workshop
+  - topic: 
+    subtopic: Wrap-Up
+
   - topic: Final Paper Due
     subtopic:
 
