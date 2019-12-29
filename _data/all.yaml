@@ -3,7 +3,7 @@ tas:
   - name: "<a href='mailto:dengyuntian@g.harvard.edu'>Yuntian</a> (OH: Wednesday 4pm-5pm, MD 2nd floor lounge)"
 
 
-dates: ["", "Jan. 22", "Jan. 27", "Jan. 29", "Feb. 3", "Feb. 5", "Feb. 10", "Feb. 12", "Feb. 17", "Feb. 19", "Feb. 24", "Feb. 26", "Mar. 2", "Mar. 4", "Mar. 9", "Mar. 11", "Mar. 16", "Mar. 18", "Mar. 23", "Mar. 25", "Apr. 6", "Apr. 8", "Apr. 13", "Apr. 15", "Apr. 20", "Apr. 22", "Apr. 27", "Apr. 29", "May. 4", "May. 14"]
+dates: ["", "Jan. 22", "Jan. 27", "Jan. 29", "Feb. 3", "Feb. 5", "Feb. 10", "Feb. 12", "Feb. 17", "Feb. 19", "Feb. 24", "Feb. 26", "Mar. 2", "Mar. 4", "Mar. 9", "Mar. 11", "Mar. 16", "Mar. 18", "Mar. 23", "Mar. 25", "Apr. 6", "Apr. 8", "Apr. 13", "Apr. 15", "Apr. 20", "Apr. 22", "Apr. 27", "Apr. 29", "May. 4", "May. 6", "May. 14"]
 ohs:
   - time: Monday 2:30-4pm
     location: MD 217 (Sasha)
@@ -122,13 +122,14 @@ lectures:
     papers:
   - topic:
     hw:
-    subtopic: Project Workshop
+    subtopic: (Lab-ICLR)
     papers:
   - topic: 
+    subtopic: (Lab-ICLR)
+  - topic: 
     subtopic: Project Workshop
   - topic: 
-    subtopic: Wrap-Up
-
+    subtopic: Project Workshop
   - topic: Final Paper Due
     subtopic:
 
