@@ -60,7 +60,7 @@ lectures:
     papers:
     hw: 
   - topic: Topics
-    hw: <a>HW 3</a>  | <a href="https://canvas.cornell.edu/courses/14084/assignments/81877">Submit</a>
+    hw: <a href="https://colab.research.google.com/drive/1D-5LkbsYEGSbWpJ2nvDszqk2RjKB3iU9">HW 3</a>  | <a href="https://canvas.cornell.edu/courses/14084/assignments/81877">Submit</a>
     subtopic: Attention
     papers:
   - topic: 
@@ -80,7 +80,7 @@ lectures:
   - topic: 
     subtopic: Task 
     papers:
-    hw: <a>HW 4</a> | <a>Submit</a>
+    hw: <a href="https://colab.research.google.com/drive/1e8Z94VvHIn7b0UhKtCj_fwTNth2okDmr">HW 4</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81878">Submit</a>
   - topic: 
     subtopic: Project / Office Hours
     papers: 
