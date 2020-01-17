@@ -19,7 +19,7 @@ lectures:
     demos: 
   - topic:
     subtopic: Structured
-    hw: <a href="https://colab.research.google.com/drive/1WsUht5DHZovYcJEkvPYRA_kopcnhQe7D">HW 1</a>
+    hw: <a href="https://colab.research.google.com/drive/1WsUht5DHZovYcJEkvPYRA_kopcnhQe7D">HW 1</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81874">Submit</a>
     papers:
     demos: 
   - topic: Posterior Inference
@@ -41,7 +41,7 @@ lectures:
     demos:
   - topic: Parameter Estimation
     subtopic: Expectation-Maximization
-    hw: HW 2
+    hw: <a href="https://colab.research.google.com/drive/1qcRzkGGQ1F2t4zHqq2RRtzO7uFTendkw">HW 2</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81876">Submit</a>
     papers:
     section:
     demos:      
@@ -60,7 +60,7 @@ lectures:
     papers:
     hw: 
   - topic: Topics
-    hw: HW 3    
+    hw: <a>HW 3</a>  | <a href="https://canvas.cornell.edu/courses/14084/assignments/81877">Submit</a>
     subtopic: Attention
     papers:
   - topic: 
@@ -80,7 +80,7 @@ lectures:
   - topic: 
     subtopic: Task 
     papers:
-    hw: HW 4
+    hw: <a>HW 4</a> | <a>Submit</a>
   - topic: 
     subtopic: Project / Office Hours
     papers: 
