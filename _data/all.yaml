@@ -19,7 +19,7 @@ lectures:
     demos: 
   - topic:
     subtopic: Structured
-    hw: HW 1
+    hw: <a href="https://colab.research.google.com/drive/1WsUht5DHZovYcJEkvPYRA_kopcnhQe7D">HW 1</a>
     papers:
     demos: 
   - topic: Posterior Inference
