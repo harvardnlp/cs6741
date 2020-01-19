@@ -24,11 +24,11 @@ lectures:
     demos: 
   - topic: Posterior Inference
     hw:  
-    subtopic: Exact / RL
+    subtopic: Exact / Variational
     papers:
     demos: 
   - topic:
-    subtopic: Variational / Amortized
+    subtopic:  Amortized 
     hw: 
     papers:
     section:
