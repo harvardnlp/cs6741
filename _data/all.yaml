@@ -56,6 +56,10 @@ lectures:
     hw: 
     papers:
   - topic: 
+    subtopic: (Break)
+    papers:
+    hw: 
+  - topic: 
     subtopic: Autoregressive
     papers:
     hw: 
@@ -97,10 +101,6 @@ lectures:
     subtopic: Text Generation
     papers:
   - topic: Projects
-    hw:
-    subtopic: Project Workshop
-    papers:
-  - topic:
     hw:
     subtopic: Project Workshop
     papers:
