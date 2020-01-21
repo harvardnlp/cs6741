@@ -19,7 +19,7 @@ lectures:
     demos: 
   - topic:
     subtopic: Structured
-    hw: <a href="https://colab.research.google.com/drive/1WsUht5DHZovYcJEkvPYRA_kopcnhQe7D">HW 1</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81874">Submit</a>
+    hw: <a href="https://colab.research.google.com/drive/1WsUht5DHZovYcJEkvPYRA_kopcne7D">HW 1</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81874">Submit</a>
     papers:
     demos: 
   - topic: Posterior Inference
