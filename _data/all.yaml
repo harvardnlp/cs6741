@@ -13,45 +13,45 @@ lectures:
     papers:
     hw:
   - topic: Core Models
-    subtopic: Base
+    subtopic: Base Models
     hw:
     papers:
     demos: 
   - topic:
-    subtopic: Structured
+    subtopic: Logistic Regression
     hw: <a href="https://colab.research.google.com/drive/11scCmGhFurY1Crnyp6Zc0ukCINC-4K6h">HW 1</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81874">Submit</a>
     papers:
     demos: 
-  - topic: Posterior Inference
+  - topic: Parameter Estimation
     hw:  
-    subtopic: Exact / Variational
+    subtopic: Softmax Properties
     papers:
     demos: 
   - topic:
-    subtopic:  Amortized 
+    subtopic:  Attention 
     hw: 
     papers:
     section:
     demos:
   - topic:
-    subtopic: Relaxations
+    subtopic: Recurrent Models
     hw: 
     papers:
     section:
     demos:
-  - topic: Parameter Estimation
+  - topic: Latent Variables
     subtopic: Expectation-Maximization
     hw: <a href="https://colab.research.google.com/drive/1XZz23rrcyfXM0xeB3-3sG2Bhr1H3C7On">HW 2</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81876">Submit</a>
     papers:
     section:
     demos:      
   - topic: 
-    subtopic: Variational Autoencoders
+    subtopic: Variational 
     papers:
     section:
     demos:    
-  - topic: Structured Inference
-    subtopic: Structure (Pt 2)
+  - topic: 
+    subtopic: Amortization
     demos: 
     hw: 
     papers:
@@ -60,12 +60,12 @@ lectures:
     papers:
     hw: 
   - topic: Topics
-    subtopic: Autoregressive
+    subtopic: Gumbel and Attention
     papers:
     hw: 
   - topic: 
     hw: <a href="https://colab.research.google.com/drive/1D-5LkbsYEGSbWpJ2nvDszqk2RjKB3iU9">HW 3</a>  | <a href="https://canvas.cornell.edu/courses/14084/assignments/81877">Submit</a>
-    subtopic: Attention
+    subtopic: Paper Discussion
     papers:
   - topic: Midterm
     subtopic: 
