@@ -62,9 +62,9 @@ lectures:
   - topic: Topics
     subtopic: Gumbel and Attention
     papers:
-    hw: 
-  - topic: 
     hw: <a href="https://colab.research.google.com/drive/1D-5LkbsYEGSbWpJ2nvDszqk2RjKB3iU9">HW 3</a>  | <a href="https://canvas.cornell.edu/courses/14084/assignments/81877">Submit</a>
+  - topic: 
+    hw: 
     subtopic: Paper Discussion
     papers:
   - topic: Midterm
