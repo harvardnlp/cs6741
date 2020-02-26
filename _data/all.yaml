@@ -67,9 +67,9 @@ lectures:
     hw: 
     subtopic: Paper Discussion
     papers:
-  - topic: Midterm
+  - topic: Midterm 
     subtopic: 
-    papers:
+    papers: <a href="https://colab.research.google.com/drive/1P6roL8CdMOWY5BULmu8en8-XAEBJDDmu">Guide</a>
     demos: 
   - topic: 
     subtopic: Project / Office Hours (Ithaca)
