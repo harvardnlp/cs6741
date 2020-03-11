@@ -76,25 +76,26 @@ lectures:
     papers: 
   - topic: 
     hw:
-    subtopic: Flow-Models
+    subtopic: (Cancelled)
     papers:
     section:
     demos:
-  - topic: Tasks
+  - topic: Advanced
     hw: 
-    subtopic: Task 
+    subtopic: Structured Prediction
     papers:
   - topic: 
-    subtopic: Task 
+    subtopic: Flow Models
     papers:
     hw: <a href="https://colab.research.google.com/drive/1e8Z94VvHIn7b0UhKtCj_fwTNth2okDmr">HW 4</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81878">Submit</a>
-  - topic: Topics
+  - topic: Tasks
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
-    subtopic: Text GANs (?)
+    | <a href="https://docs.google.com/spreadsheets/d/1PchbH3gFPSOp18z6zUs6Wh8GaOCTSaPkU3u9IxB_5Ms/edit?usp=sharing">Sign-up</a>
+    subtopic: Tasks 1
     papers:
   - topic:
     hw: 
-    subtopic: Advanced DP
+    subtopic: Tasks 2
     papers:
   - topic:
     hw:
@@ -122,14 +123,11 @@ lectures:
     papers:
   - topic:
     hw:
-    subtopic: (Lab-ICLR)
+    subtopic: Project Workshop
     papers:
   - topic: 
-    subtopic: (Lab-ICLR)
-  - topic: 
     subtopic: Project Workshop
-  - topic: 
-    subtopic: Project Workshop
+
   - topic: Final Paper Due
     subtopic:
 
