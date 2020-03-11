@@ -87,9 +87,9 @@ lectures:
   - topic: 
     subtopic: Flow Models
     papers:
-    hw:
-  - topic: Tasks
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a> | <a href="https://docs.google.com/spreadsheets/d/1PchbH3gFPSOp18z6zUs6Wh8GaOCTSaPkU3u9IxB_5Ms/edit?usp=sharing">Sign-up</a>
+  - topic: Tasks
+    hw: 
     subtopic: Tasks 1: Text Understanding
     papers:
   - topic:
