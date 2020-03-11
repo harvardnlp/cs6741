@@ -90,17 +90,17 @@ lectures:
     hw:
   - topic: Tasks
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a> | <a href="https://docs.google.com/spreadsheets/d/1PchbH3gFPSOp18z6zUs6Wh8GaOCTSaPkU3u9IxB_5Ms/edit?usp=sharing">Sign-up</a>
-    subtopic: Tasks 1
+    subtopic: Tasks 1: Text Understanding
     papers:
   - topic:
     hw: 
-    subtopic: Tasks 2
-    papers:
-  - topic:
-    hw:  <a href="https://colab.research.google.com/drive/1e8Z94VvHIn7b0UhKtCj_fwTNth2okDmr">HW 4</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81878">Submit</a>
-    subtopic: Text Generation
+    subtopic: Tasks 2: Text Generation
     papers:
   - topic: Projects
+    hw:  <a href="https://colab.research.google.com/drive/1e8Z94VvHIn7b0UhKtCj_fwTNth2okDmr">HW 4</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81878">Submit</a>
+    subtopic: Project Workshop
+    papers:
+  - topic: 
     hw:
     subtopic: Project Workshop
     papers:
