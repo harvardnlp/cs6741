@@ -82,17 +82,17 @@ lectures:
     demos:
   - topic: Advanced
     hw: 
-    subtopic: Structured Prediction
+    subtopic: Structured Prediction 1
     papers:
   - topic: 
-    subtopic: Structured Prediction
+    subtopic: Structured Prediction 2
     papers:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a> | <a href="https://docs.google.com/spreadsheets/d/1PchbH3gFPSOp18z6zUs6Wh8GaOCTSaPkU3u9IxB_5Ms/edit?usp=sharing">Sign-up</a>
-  - topic: Tasks
+  - topic: 
     hw: 
-    subtopic: Structured Prediction
+    subtopic: Structured Prediction 3
     papers:
-  - topic:
+  - topic: Tasks
     hw: 
     subtopic: "Tasks 1: BERT Understanding"
     papers:
@@ -102,30 +102,30 @@ lectures:
     papers:
   - topic: Projects
     hw:
-    subtopic: Project Workshop
+    subtopic: Project Workshop (Alane)
     papers:
   - topic:
     hw:
-    subtopic: Project Workshop
+    subtopic: Project Workshop (Edgar/Wen-Ding)
     papers:
   - topic:
     hw:
-    subtopic: Project Workshop
+    subtopic: Project Workshop (Esin / Congzheng+Xun)
     papers:
   - topic:
     hw:
-    subtopic: Project Workshop
+    subtopic: Project Workshop (Emily / Joshua)
     papers:
   - topic:
     hw:
-    subtopic: Project Workshop
+    subtopic: Project Workshop (Nori / Zhonglin)
     papers:
   - topic:
     hw:
-    subtopic: Project Workshop
+    subtopic: Project Workshop (Jiajing / Apoorv) 
     papers:
   - topic: 
-    subtopic: Project Workshop
+    subtopic: Project Workshop (Ge / Shachi)
 
   - topic: Final Paper Due
     subtopic:
