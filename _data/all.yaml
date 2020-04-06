@@ -85,22 +85,22 @@ lectures:
     subtopic: Structured Prediction
     papers:
   - topic: 
-    subtopic: Flow Models
+    subtopic: Structured Prediction
     papers:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a> | <a href="https://docs.google.com/spreadsheets/d/1PchbH3gFPSOp18z6zUs6Wh8GaOCTSaPkU3u9IxB_5Ms/edit?usp=sharing">Sign-up</a>
   - topic: Tasks
     hw: 
-    subtopic: "Tasks 1: Understanding"
+    subtopic: Structured Prediction
     papers:
   - topic:
     hw: 
-    subtopic: "Tasks 2: Generation"
-    papers:
-  - topic: Projects
-    hw:  <a href="https://colab.research.google.com/drive/1e8Z94VvHIn7b0UhKtCj_fwTNth2okDmr">HW 4</a> | <a href="https://canvas.cornell.edu/courses/14084/assignments/81878">Submit</a>
-    subtopic: Project Workshop
+    subtopic: "Tasks 1: BERT Understanding"
     papers:
   - topic: 
+    hw:  
+    subtopic:  "Tasks 2: Generation"
+    papers:
+  - topic: Projects
     hw:
     subtopic: Project Workshop
     papers:
