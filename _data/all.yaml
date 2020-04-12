@@ -141,9 +141,17 @@ lectures:
     hw:
     subtopic: Project Workshop (Jiajing / Apoorv) 
     papers:
+      - name: Structuring Latent Space for Stylized Resposne Generation 
+        link: https://www.aclweb.org/anthology/D19-1190.pdf
+      - name: Weakly-supervised Visual Grounding of Phrases with Linguistic Structures
+        link: http://openaccess.thecvf.com/content_cvpr_2017/papers/Xiao_Weakly-Supervised_Visual_Grounding_CVPR_2017_paper.pdf
   - topic: 
     subtopic: Project Workshop (Ge / Shachi)
-
+    papers:
+      - name:
+        link: 
+      - name: On Calibration of Modern Neural Networks
+        link: https://arxiv.org/abs/1706.04599
   - topic: Final Paper Due
     subtopic:
 
