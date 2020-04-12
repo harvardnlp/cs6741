@@ -124,8 +124,8 @@ lectures:
     hw:
     subtopic: Project Workshop (Emily / Joshua)
     papers:
-      - name:
-        link: 
+      - name: Trouble on the Horizon
+        link: https://www.cs.cornell.edu/~cristian/Trouble_on_the_Horizon_files/trouble_on_the_horizon.pdf
       - name: Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
         link: https://arxiv.org/abs/1210.5644
 
