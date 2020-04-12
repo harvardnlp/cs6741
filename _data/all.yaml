@@ -107,19 +107,36 @@ lectures:
   - topic:
     hw:
     subtopic: Project Workshop (Edgar/Wen-Ding)
-    papers:
+    papers: 
+      - name: HDP
+        link: https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf
+      - name: PyStruct
+        link: https://arxiv.org/abs/2002.00876
   - topic:
     hw:
     subtopic: Project Workshop (Esin / Congzheng+Xun)
     papers:
+      - name: Latent BOW
+        link: http://papers.nips.cc/paper/9516-paraphrase-generation-with-latent-bag-of-words.pdf
+      - name: Universal Adversarial Triggers for Attacking and Analyzing NLP
+        link: https://arxiv.org/pdf/1908.07125.pdf
   - topic:
     hw:
     subtopic: Project Workshop (Emily / Joshua)
     papers:
+      - name:
+        link: 
+      - name: Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
+        link: https://arxiv.org/abs/1210.5644
+
   - topic:
     hw:
     subtopic: Project Workshop (Nori / Zhonglin)
     papers:
+      - name: Language as a Latent Variable
+        link: https://arxiv.org/pdf/1609.07317.pdf
+      - name: Embedding time expressions for deep temporal ordering models
+        link: https://www.aclweb.org/anthology/P19-1433.pdf
   - topic:
     hw:
     subtopic: Project Workshop (Jiajing / Apoorv) 
