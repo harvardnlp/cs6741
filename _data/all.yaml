@@ -124,8 +124,8 @@ lectures:
     hw:
     subtopic: Project Workshop (Emily / Joshua)
     papers:
-      - name: Trouble on the Horizon
-        link: https://www.cs.cornell.edu/~cristian/Trouble_on_the_Horizon_files/trouble_on_the_horizon.pdf
+      - name: A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues
+        link: https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14567/14219
       - name: Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
         link: https://arxiv.org/abs/1210.5644
 
